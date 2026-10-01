@@ -10,7 +10,12 @@
 
 👉 https://github.com/sami-mirza2005/QR-Codex/releases
 
-Download the latest release and install **QR Codex** directly on your Android device.
+### 📲 Installation Process
+
+1. Open the link.
+2. click on "QR_Codex.apk".
+3. Open the downloaded APK and tap Install.
+4. If Android shows a warning because the app is installed outside the Play Store, select More details → Install anyway.
 
 ---
 
